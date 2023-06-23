@@ -1,0 +1,95 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Garson Cagir</title>
+    <!-- Link To CSS -->
+    <link rel="stylesheet" href="css/style.css">
+    <!-- Fav Icon -->
+    <link rel="shortcut icon" href="img/fav-icon.png" type="image/x-icon">
+
+    <!-- About -->
+</head>
+<body><div class="table container">
+    <h2>Garson Cagirma uygulmasina hosgeldiniz</h2>
+    <p>Lutfen siparis vermek istediginiz masayi yaziniz</p>
+    <div>
+        <label>
+            <span>Masa No: <span class="required"></span></span>
+            <input type="text">
+        </label>
+    </div>
+    <script type="text/javascript">
+        function fonk1()
+        {
+            window.alert('Garson Yonlendirildi');
+        }
+
+    </script>
+    <input type="button" value="Cagir" onclick="fonk1()" class="button">
+    <!-- Table Number  -->
+    <h2 class="number-heading">Masa Numaralari</h2>
+    <div class="number">
+        <div class="number-box">
+            <img src="GarsonCagir/1.jpeg" alt="" class="number-img">
+        </div>
+        <div class="cast-box">
+            <img src="GarsonCagir/2.jpeg" alt="" class="number-img">
+        </div>
+        <div class="cast-box">
+            <img src="GarsonCagir/3.jpeg" alt="" class="number-img">
+        </div>
+        <div class="cast-box">
+            <img src="GarsonCagir/4.jpeg" alt="" class="number-img">
+        </div>
+        <div class="cast-box">
+            <img src="GarsonCagir/5.jpeg" alt="" class="number-img">
+        </div>
+        <div class="cast-box">
+            <img src="GarsonCagir/6.jpeg" alt="" class="number-img">
+        </div>
+        <div class="cast-box">
+            <img src="GarsonCagir/7.jpeg" alt="" class="number-img">
+        </div>
+        <div class="cast-box">
+            <img src="GarsonCagir/8.jpeg" alt="" class="number-img">
+        </div>
+        <div class="cast-box">
+            <img src="GarsonCagir/9.jpeg" alt="" class="number-img">
+        </div>
+        <div class="cast-box">
+            <img src="GarsonCagir/10.jpeg" alt="" class="number-img">
+        </div>
+        <div class="cast-box">
+            <img src="GarsonCagir/11.jpeg" alt="" class="number-img">
+        </div>
+        <div class="cast-box">
+            <img src="GarsonCagir/12.jpeg" alt="" class="number-img">
+        </div>
+        <div class="cast-box">
+            <img src="GarsonCagir/13.jpeg" alt="" class="number-img">
+        </div>
+        <div class="cast-box">
+            <img src="GarsonCagir/14.jpeg" alt="" class="number-img">
+        </div>
+        <div class="cast-box">
+            <img src="GarsonCagir/15.jpeg" alt="" class="number-img">
+        </div>
+        <div class="cast-box">
+            <img src="GarsonCagir/16.jpeg" alt="" class="number-img">
+        </div>
+        <div class="cast-box">
+            <img src="GarsonCagir/17.jpeg" alt="" class="number-img">
+        </div>
+        <div class="cast-box">
+            <img src="GarsonCagir/18.jpeg" alt="" class="number-img">
+        </div>
+
+    </div>
+
+</div>
+
+
+</body></html>
